@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "antlr4": "^4.13.2",
+    "antlr4ts": "^0.5.0-alpha.4"
+  },
+  "type": "module"
+}

@@ -1,0 +1,1 @@
+do {puts("Hola Mundo");} while (1);
